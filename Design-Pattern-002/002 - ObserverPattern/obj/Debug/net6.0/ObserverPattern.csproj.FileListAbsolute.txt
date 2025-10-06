@@ -1,0 +1,29 @@
+D:/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/ObserverPattern/obj/Debug/net6.0/ObserverPattern.csproj.AssemblyReference.cache
+D:/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/ObserverPattern/obj/Debug/net6.0/ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/ObserverPattern/obj/Debug/net6.0/ObserverPattern.AssemblyInfoInputs.cache
+D:/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/ObserverPattern/obj/Debug/net6.0/ObserverPattern.AssemblyInfo.cs
+D:/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/ObserverPattern/obj/Debug/net6.0/ObserverPattern.csproj.CoreCompileInputs.cache
+D:/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/ObserverPattern/bin/Debug/net6.0/ObserverPattern.exe
+D:/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/ObserverPattern/bin/Debug/net6.0/ObserverPattern.deps.json
+D:/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/ObserverPattern/bin/Debug/net6.0/ObserverPattern.runtimeconfig.json
+D:/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/ObserverPattern/bin/Debug/net6.0/ObserverPattern.dll
+D:/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/ObserverPattern/bin/Debug/net6.0/ObserverPattern.pdb
+D:/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/ObserverPattern/obj/Debug/net6.0/ObserverPattern.dll
+D:/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/ObserverPattern/obj/Debug/net6.0/refint/ObserverPattern.dll
+D:/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/ObserverPattern/obj/Debug/net6.0/ObserverPattern.pdb
+D:/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/ObserverPattern/obj/Debug/net6.0/ObserverPattern.genruntimeconfig.cache
+D:/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/ObserverPattern/obj/Debug/net6.0/ref/ObserverPattern.dll
+/Users/damien/Documents/School/2025-2026/Design Patterns/002 - ObserverPattern/bin/Debug/net6.0/ObserverPattern
+/Users/damien/Documents/School/2025-2026/Design Patterns/002 - ObserverPattern/bin/Debug/net6.0/ObserverPattern.deps.json
+/Users/damien/Documents/School/2025-2026/Design Patterns/002 - ObserverPattern/bin/Debug/net6.0/ObserverPattern.runtimeconfig.json
+/Users/damien/Documents/School/2025-2026/Design Patterns/002 - ObserverPattern/bin/Debug/net6.0/ObserverPattern.dll
+/Users/damien/Documents/School/2025-2026/Design Patterns/002 - ObserverPattern/bin/Debug/net6.0/ObserverPattern.pdb
+/Users/damien/Documents/School/2025-2026/Design Patterns/002 - ObserverPattern/obj/Debug/net6.0/ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damien/Documents/School/2025-2026/Design Patterns/002 - ObserverPattern/obj/Debug/net6.0/ObserverPattern.AssemblyInfoInputs.cache
+/Users/damien/Documents/School/2025-2026/Design Patterns/002 - ObserverPattern/obj/Debug/net6.0/ObserverPattern.AssemblyInfo.cs
+/Users/damien/Documents/School/2025-2026/Design Patterns/002 - ObserverPattern/obj/Debug/net6.0/ObserverPattern.csproj.CoreCompileInputs.cache
+/Users/damien/Documents/School/2025-2026/Design Patterns/002 - ObserverPattern/obj/Debug/net6.0/ObserverPattern.dll
+/Users/damien/Documents/School/2025-2026/Design Patterns/002 - ObserverPattern/obj/Debug/net6.0/refint/ObserverPattern.dll
+/Users/damien/Documents/School/2025-2026/Design Patterns/002 - ObserverPattern/obj/Debug/net6.0/ObserverPattern.pdb
+/Users/damien/Documents/School/2025-2026/Design Patterns/002 - ObserverPattern/obj/Debug/net6.0/ObserverPattern.genruntimeconfig.cache
+/Users/damien/Documents/School/2025-2026/Design Patterns/002 - ObserverPattern/obj/Debug/net6.0/ref/ObserverPattern.dll

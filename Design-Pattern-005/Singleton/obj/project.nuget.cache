@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z7JRd82sWVY=",
+  "success": true,
+  "projectFilePath": "/Users/damien/Documents/School/2025-2026/DesignPattern/Singleton/SingletonPattern.csproj",
+  "expectedPackageFiles": [
+    "/Users/damien/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/damien/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/damien/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.36/microsoft.netcore.app.host.osx-arm64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

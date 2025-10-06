@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uHMzfSMcNLs=",
+  "success": true,
+  "projectFilePath": "/Users/damien/Documents/School/2025-2026/Design Patterns/003 - StrategyPattern/003 - DecoratorPattern/DecoratorPattern/DecoratorPattern.csproj",
+  "expectedPackageFiles": [
+    "/Users/damien/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/damien/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/damien/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.36/microsoft.netcore.app.host.osx-arm64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}
