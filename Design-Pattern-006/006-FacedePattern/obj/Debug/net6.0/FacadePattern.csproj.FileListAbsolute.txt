@@ -1,20 +1,35 @@
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\FacadePattern\obj\Debug\net6.0\FacadePattern.csproj.AssemblyReference.cache
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\FacadePattern\obj\Debug\net6.0\FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\FacadePattern\obj\Debug\net6.0\FacadePattern.AssemblyInfoInputs.cache
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\FacadePattern\obj\Debug\net6.0\FacadePattern.AssemblyInfo.cs
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\ROC Nijmegen\Ontwikkeling\C#\DesignPatterns\FacadePattern\obj\Debug\net6.0\FacadePattern.csproj.CoreCompileInputs.cache
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\FacadePattern\bin\Debug\net6.0\FacadePattern.exe
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\FacadePattern\bin\Debug\net6.0\FacadePattern.deps.json
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\FacadePattern\bin\Debug\net6.0\FacadePattern.runtimeconfig.json
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\FacadePattern\bin\Debug\net6.0\FacadePattern.dll
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\FacadePattern\bin\Debug\net6.0\FacadePattern.pdb
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\FacadePattern\obj\Debug\net6.0\FacadePattern.csproj.AssemblyReference.cache
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\FacadePattern\obj\Debug\net6.0\FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\FacadePattern\obj\Debug\net6.0\FacadePattern.AssemblyInfoInputs.cache
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\FacadePattern\obj\Debug\net6.0\FacadePattern.AssemblyInfo.cs
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\FacadePattern\obj\Debug\net6.0\FacadePattern.csproj.CoreCompileInputs.cache
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\FacadePattern\obj\Debug\net6.0\FacadePattern.dll
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\FacadePattern\obj\Debug\net6.0\refint\FacadePattern.dll
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\FacadePattern\obj\Debug\net6.0\FacadePattern.pdb
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\FacadePattern\obj\Debug\net6.0\FacadePattern.genruntimeconfig.cache
-C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\FacadePattern\obj\Debug\net6.0\ref\FacadePattern.dll
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/ROC Nijmegen/Ontwikkeling/C#/DesignPatterns/FacadePattern/obj/Debug/net6.0/FacadePattern.csproj.AssemblyReference.cache
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/ROC Nijmegen/Ontwikkeling/C#/DesignPatterns/FacadePattern/obj/Debug/net6.0/FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/ROC Nijmegen/Ontwikkeling/C#/DesignPatterns/FacadePattern/obj/Debug/net6.0/FacadePattern.AssemblyInfoInputs.cache
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/ROC Nijmegen/Ontwikkeling/C#/DesignPatterns/FacadePattern/obj/Debug/net6.0/FacadePattern.AssemblyInfo.cs
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/ROC Nijmegen/Ontwikkeling/C#/DesignPatterns/FacadePattern/obj/Debug/net6.0/FacadePattern.csproj.CoreCompileInputs.cache
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/FacadePattern/bin/Debug/net6.0/FacadePattern.exe
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/FacadePattern/bin/Debug/net6.0/FacadePattern.deps.json
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/FacadePattern/bin/Debug/net6.0/FacadePattern.runtimeconfig.json
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/FacadePattern/bin/Debug/net6.0/FacadePattern.dll
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/FacadePattern/bin/Debug/net6.0/FacadePattern.pdb
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/FacadePattern/obj/Debug/net6.0/FacadePattern.csproj.AssemblyReference.cache
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/FacadePattern/obj/Debug/net6.0/FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/FacadePattern/obj/Debug/net6.0/FacadePattern.AssemblyInfoInputs.cache
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/FacadePattern/obj/Debug/net6.0/FacadePattern.AssemblyInfo.cs
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/FacadePattern/obj/Debug/net6.0/FacadePattern.csproj.CoreCompileInputs.cache
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/FacadePattern/obj/Debug/net6.0/FacadePattern.dll
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/FacadePattern/obj/Debug/net6.0/refint/FacadePattern.dll
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/FacadePattern/obj/Debug/net6.0/FacadePattern.pdb
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/FacadePattern/obj/Debug/net6.0/FacadePattern.genruntimeconfig.cache
+C:/Users/rnieuwkoop/OneDrive - ROC Nijmegen/Software Development/API 3 - Design Patterns/Source code/DesignPatterns/FacadePattern/obj/Debug/net6.0/ref/FacadePattern.dll
+/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/bin/Debug/net6.0/FacadePattern
+/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/bin/Debug/net6.0/FacadePattern.deps.json
+/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/bin/Debug/net6.0/FacadePattern.runtimeconfig.json
+/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/bin/Debug/net6.0/FacadePattern.dll
+/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/bin/Debug/net6.0/FacadePattern.pdb
+/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/obj/Debug/net6.0/FacadePattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/obj/Debug/net6.0/FacadePattern.AssemblyInfoInputs.cache
+/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/obj/Debug/net6.0/FacadePattern.AssemblyInfo.cs
+/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/obj/Debug/net6.0/FacadePattern.csproj.CoreCompileInputs.cache
+/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/obj/Debug/net6.0/FacadePattern.sourcelink.json
+/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/obj/Debug/net6.0/FacadePattern.dll
+/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/obj/Debug/net6.0/refint/FacadePattern.dll
+/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/obj/Debug/net6.0/FacadePattern.pdb
+/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/obj/Debug/net6.0/FacadePattern.genruntimeconfig.cache
+/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/obj/Debug/net6.0/ref/FacadePattern.dll

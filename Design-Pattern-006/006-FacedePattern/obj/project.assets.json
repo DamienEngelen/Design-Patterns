@@ -8,26 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\rnieuwkoop\\.nuget\\packages\\": {}
+    "/Users/damien/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rnieuwkoop\\OneDrive - ROC Nijmegen\\Software Development\\API 3 - Design Patterns\\Source code\\DesignPatterns\\FacadePattern\\FacadePattern.csproj",
+      "projectUniqueName": "/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/FacadePattern.csproj",
       "projectName": "FacadePattern",
-      "projectPath": "C:\\Users\\rnieuwkoop\\OneDrive - ROC Nijmegen\\Software Development\\API 3 - Design Patterns\\Source code\\DesignPatterns\\FacadePattern\\FacadePattern.csproj",
-      "packagesPath": "C:\\Users\\rnieuwkoop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rnieuwkoop\\OneDrive - ROC Nijmegen\\Software Development\\API 3 - Design Patterns\\Source code\\DesignPatterns\\FacadePattern\\obj\\",
+      "projectPath": "/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/FacadePattern.csproj",
+      "packagesPath": "/Users/damien/.nuget/packages/",
+      "outputPath": "/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rnieuwkoop\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/damien/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -40,7 +38,13 @@
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net6.0": {
@@ -56,12 +60,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[6.0.36, 6.0.36]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.36, 6.0.36]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/RuntimeIdentifierGraph.json"
       }
     }
   }

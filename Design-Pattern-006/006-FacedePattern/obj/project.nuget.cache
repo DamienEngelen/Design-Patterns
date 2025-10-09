@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "2BdKl9dycEi/D9YYmeqJo/Egb0raBhb0hKhERZ6M2oSYpdJItQzBJHEPQQ8RLsRj04Ptjsf3i9vvALpNBDRecg==",
+  "dgSpecHash": "3Z7htfhdJAw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rnieuwkoop\\OneDrive - ROC Nijmegen\\Software Development\\API 3 - Design Patterns\\Source code\\DesignPatterns\\FacadePattern\\FacadePattern.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/damien/Documents/School/2025-2026/DesignPattern/Design-Pattern-006/006-FacedePattern/FacadePattern.csproj",
+  "expectedPackageFiles": [
+    "/Users/damien/.nuget/packages/microsoft.netcore.app.ref/6.0.36/microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/damien/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.36/microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "/Users/damien/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.36/microsoft.netcore.app.host.osx-arm64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }
